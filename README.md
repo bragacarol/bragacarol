@@ -1,4 +1,6 @@
-👋 Olá!! Eu sou a Caroline Braga
+👋 Olá, sou a Caroline! Sou estudante de Análise e Desenvolvimento de Sistemas e uma amante da programação.
+
+Meu foco atualmente é em JavaScript, mas estudo outras tecnologias também e posto alguns projetos de estudo aqui 😀
 
 
 <div> 
