@@ -1,7 +1,5 @@
 👋 Olá, sou a Caroline! Sou desenvolvedora fullstack com foco em React.Js, React Native e Node.Js!
 
-Meu foco atualmente é em JavaScript, mas estudo outras tecnologias também e posto alguns projetos de estudo aqui 😀
-
 
 <div> 
   <a href="mailto:bragacaroline10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
