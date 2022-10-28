@@ -1,4 +1,4 @@
-👋 Olá, sou a Caroline! Sou estudante de Análise e Desenvolvimento de Sistemas e uma amante da programação.
+👋 Olá, sou a Caroline! Sou desenvolvedora fullstack com foco em React.Js, React Native e Node.Js!
 
 Meu foco atualmente é em JavaScript, mas estudo outras tecnologias também e posto alguns projetos de estudo aqui 😀
 
